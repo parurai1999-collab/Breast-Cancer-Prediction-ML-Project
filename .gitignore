@@ -1,0 +1,5 @@
+.venv/
+__pycache__/
+*.pyc
+cancer_model.pkl
+.ipynb_c*eckpoints/
