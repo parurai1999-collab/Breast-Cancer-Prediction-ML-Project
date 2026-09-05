@@ -12,6 +12,11 @@ Machine Learning web application built using:
 
 (https://drive.google.com/file/d/1y72lLK-c5h-TiTa_vBeya0aTMct18kDc/view?usp=drive_link)
 
+## Live Demo
+
+🚀 Streamlit App:
+https://breast-cancer-prediction-ml-project-mbfacj6amqscndcekmrwck.streamlit.app/
+
 ## Install Dependencies
 
 pip install -r requirements.txt
